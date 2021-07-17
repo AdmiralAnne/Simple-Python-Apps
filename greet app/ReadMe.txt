@@ -1,3 +1,3 @@
 # pip install kivy 
 
-(tutorial by "Python Simplified"
+(tutorial by "Python Simplified")
